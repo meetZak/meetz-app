@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/abuyusr/meetz-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/abuyusr/meetz-app.git/static/js/main.8f00ad0d.js",
+    "static/js/787.2f65f70b.chunk.js": "/abuyusr/meetz-app.git/static/js/787.2f65f70b.chunk.js",
+    "service-worker.js": "/abuyusr/meetz-app.git/service-worker.js",
+    "static/media/logo.svg": "/abuyusr/meetz-app.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/abuyusr/meetz-app.git/index.html",
+    "main.073c9b0a.css.map": "/abuyusr/meetz-app.git/static/css/main.073c9b0a.css.map",
+    "main.8f00ad0d.js.map": "/abuyusr/meetz-app.git/static/js/main.8f00ad0d.js.map",
+    "787.2f65f70b.chunk.js.map": "/abuyusr/meetz-app.git/static/js/787.2f65f70b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8f00ad0d.js"
+  ]
+}
